@@ -15,3 +15,6 @@ Just a demo to show that Flutter web can be deployed as a PWA to AZURE STATIC WE
   <img src="build_1.png" width="75%">
   <img src="build_2.png" width="23%">
 </p>
+
+## PURPOSE
+Forked and modified by AlpenYeti for Microsoft's Flutter Viking Challenge !
